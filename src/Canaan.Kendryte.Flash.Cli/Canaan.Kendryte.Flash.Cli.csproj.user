@@ -2,5 +2,9 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_LastSelectedProfileId>D:\Work\Repository\kendryte-flash-windows\src\Canaan.Kendryte.Flash.Cli\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+    <ActiveDebugProfile>Canaan.Kendryte.Flash.Cli</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

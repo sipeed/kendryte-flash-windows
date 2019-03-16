@@ -2,7 +2,7 @@
   "profiles": {
     "Canaan.Kendryte.Flash.Cli": {
       "commandName": "Project",
-      "commandLineArgs": "-d COM5 D:\\Work\\Repository\\kendryte-freertos-sdk\\build\\hello_world.bin"
+      "commandLineArgs": "-d COM12 E:\\Share\\K210\\kendryte-standalone-sdk-v0.5.3\\src\\go_test\\build\\go_test.bin"
     }
   }
 }
