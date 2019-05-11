@@ -1,17 +1,3 @@
-Kendryte Flash
-===
+please use [kflash_gui](https://github.com/sipeed/kflash_gui)
 
-## Introduction
-
-Kendryte flash utility.
-
-## Requirements
-
-### GUI
-Microsoft [.NET Framework 4.7.1](https://www.microsoft.com/net/download/thank-you/net471) or higher.
-
-![Screenshots](screenshots/1.png)
-
-### CLI
-
-![Screenshots](screenshots/2.png)
+请使用[kflash_gui](https://github.com/sipeed/kflash_gui)
